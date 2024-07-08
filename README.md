@@ -8,9 +8,11 @@ Features
     
 Screenshots
 Splash Screen
+
 ![Screenshot_20240708_232415_Retail Business App](https://github.com/Telegon6/Retail-Business-App/assets/115192722/10c5e022-1779-4d4c-8db2-9dd206b1c091)
 
 Product List
+
 ![Screenshot_20240708_232437_Retail Business App](https://github.com/Telegon6/Retail-Business-App/assets/115192722/bb5496ae-323b-4f2f-8631-7f12d74909f2)
 
 ![Screenshot_20240708_232503_Retail Business App](https://github.com/Telegon6/Retail-Business-App/assets/115192722/69679b76-77eb-445b-b6fb-d8eeec6babcc)
